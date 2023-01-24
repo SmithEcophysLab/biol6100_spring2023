@@ -1,6 +1,5 @@
 # readings.md
-## reading list for BIOL 6100-029
-## Spring 2023
+Reading list for BIOL 6100-029, Spring 2023
 
 ## January 27 (photosynthesis)
 S.P. Long, P.K. Farage, R.L. Garcia, Measurement of leaf and canopy photosynthetic CO2 
